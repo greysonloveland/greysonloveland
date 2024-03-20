@@ -9,7 +9,8 @@
 - [Data Analytics in Power Bi](https://github.com/greysonloveland)
 
 <h2>📫 Certifications:</h2>
-CompTIA Security+
+- [CompTIA Security+](https://i.imgur.com/RMVXA8M.png)
+
 
 [linkedin]: https://linkedin.com/in/joshmadakor](https://www.linkedin.com/in/greyson-loveland-884a021b6/
 
