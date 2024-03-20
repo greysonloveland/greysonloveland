@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Data Analytics Projects:</h2>
 
-- [Car Crash Data Analytics in Python](https://github.com/greysonloveland)
+- [Car Crash Data Analytics in Python](https://github.com/greysonloveland/Car-Crash-Data-Analytics-in-Python/tree/main)
 
 - [Data Analytics in SQL](https://github.com/greysonloveland)
 
