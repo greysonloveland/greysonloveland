@@ -1,16 +1,22 @@
-### Hi there 👋
+<h1>Hi, I'm Greyson!</h1>
 
-<!--
-**greysonloveland/greysonloveland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 Data Analytics Projects:</h2>
 
-Here are some ideas to get you started:
+- [Car Crash Data Analytics in Python](https://github.com/greysonloveland)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Data Analytics in SQL](https://github.com/greysonloveland)
+
+- [Data Analytics in Power Bi](https://github.com/greysonloveland)
+
+<h2>📫 Certifications:</h2>
+CompTIA Security+
+
+[linkedin]: https://linkedin.com/in/joshmadakor](https://www.linkedin.com/in/greyson-loveland-884a021b6/
+
+
+<h2>💬 More Information about me:</h2>
+
+- 🌱 I’m currently learning R and python
+- 💬 Ask me about my past data projects
+- 📫 How to reach me: lovelandgreyson72@gmail.com
+- ⚡ Fun fact: I am a student at Utah State Univeristy getting my masters degree in Management Information Systems.
