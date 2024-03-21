@@ -19,7 +19,7 @@ CompTIA Security+ (https://i.imgur.com/RMVXA8M.png)
 
 <h2>💬 More Information about me:</h2>
 
-- 🌱 I’m currently learning R and python
+- 🌱 I’m currently learning R
 - 💬 Ask me about my past data projects
 - 📫 How to reach me: lovelandgreyson72@gmail.com
 - ⚡ Fun fact: I am a student at Utah State Univeristy getting my masters degree in Management Information Systems.
