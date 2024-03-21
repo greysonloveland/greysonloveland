@@ -4,7 +4,7 @@
 
 - [Car Crash Data Analytics in Python](https://github.com/greysonloveland/Car-Crash-Data-Analytics-in-Python/tree/main)
 
-- [Data Analytics in SQL](https://github.com/greysonloveland)
+- [Data Analytics in SQL](https://github.com/data-analytics-SQL)
 
 - [Data Analytics in Power Bi](https://github.com/greysonloveland)
 
