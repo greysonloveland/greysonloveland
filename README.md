@@ -6,6 +6,8 @@
 
 - [Data Analytics in SQL](https://github.com/greysonloveland/data-analytics-SQL)
 
+- [Data Analytics in R](https://github.com/greysonloveland)
+
 - [Data Analytics in Power Bi](https://github.com/greysonloveland)
 
 <h2>📫 Certifications:</h2>
